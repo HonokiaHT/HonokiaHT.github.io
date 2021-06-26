@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HonokiaHT</title>
+    <link>https://honokiaht.com/post/</link>
+    <description>Recent content in Posts on HonokiaHT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 26 Jun 2021 14:49:14 +0800</lastBuildDate><atom:link href="https://honokiaht.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://honokiaht.com/post/first/</link>
+      <pubDate>Sat, 26 Jun 2021 14:49:14 +0800</pubDate>
+      
+      <guid>https://honokiaht.com/post/first/</guid>
+      <description>Hello Hugo 这是第一篇正式文章</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>关于 on HonokiaHT</title>
+    <link>https://honokiaht.com/tags/%E5%85%B3%E4%BA%8E/</link>
+    <description>Recent content in 关于 on HonokiaHT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 26 Jun 2021 14:47:52 +0800</lastBuildDate><atom:link href="https://honokiaht.com/tags/%E5%85%B3%E4%BA%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hellp，Hugo</title>
+      <link>https://honokiaht.com/about/</link>
+      <pubDate>Sat, 26 Jun 2021 14:47:52 +0800</pubDate>
+      
+      <guid>https://honokiaht.com/about/</guid>
+      <description>这是使用Hugo创建的站点中的第一篇About me</description>
+    </item>
+    
+  </channel>
+</rss>

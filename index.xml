@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HonokiaHT</title>
-    <link>https://HonokiaHT.github.io/</link>
+    <link>https://honokiaht.com/</link>
     <description>Recent content on HonokiaHT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://HonokiaHT.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 26 Jun 2021 14:49:14 +0800</lastBuildDate><atom:link href="https://honokiaht.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://honokiaht.com/post/first/</link>
+      <pubDate>Sat, 26 Jun 2021 14:49:14 +0800</pubDate>
+      
+      <guid>https://honokiaht.com/post/first/</guid>
+      <description>Hello Hugo 这是第一篇正式文章</description>
+    </item>
+    
+    <item>
+      <title>Hellp，Hugo</title>
+      <link>https://honokiaht.com/about/</link>
+      <pubDate>Sat, 26 Jun 2021 14:47:52 +0800</pubDate>
+      
+      <guid>https://honokiaht.com/about/</guid>
+      <description>这是使用Hugo创建的站点中的第一篇About me</description>
+    </item>
+    
   </channel>
 </rss>
